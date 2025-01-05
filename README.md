@@ -1,4 +1,4 @@
-# AustralisFirefoxThemeLinux
+# Australis Firefox Theme for Linux
 Australis firefox theme for linux
 
 There is no good australis theme really its either unaccurate or only limited to windows so im going to make one and its only going to be tested on linux for a while (on Ubuntu 22.04 running Unity 7.5.1) 
@@ -10,3 +10,5 @@ Currently working on the homepage for it: im around 25% done it
 I will update the progress 
 
 I have to rely on pictures for a while so im just going to make a VM of ubuntu 17.04 or something that would have old firefox so i can make it as accurate as possible
+
+# NO ESTIMATION DATE FOR FINISH JUST BE PATIENT 
