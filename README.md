@@ -16,3 +16,7 @@ I will update the progress
 I have to rely on pictures for a while so im just going to make a VM of ubuntu 17.04 or something that would have old firefox so i can make it as accurate as possible
 
 # NO ESTIMATION DATE FOR FINISH JUST BE PATIENT
+
+# I AM NOT WORKING ON THIS PROJECT ANYMORE 
+I FIXED THE ECHELON AUSTRALIS THEME FOR AMBIENCE THEME I DONT KNOW HOW IT LOOKS ON NORMAL LINUX THOUGH 
+https://github.com/RandomIsHeree/EchelonAustralisAmbienceFix/tree/main
